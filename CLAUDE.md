@@ -33,7 +33,7 @@ Run: `npm install`, then `npm run dev`. Check before finishing a task: `npm run 
 
 ## Language
 
-All documentation (`PROCESS.md`, `README.md`, anything in `docs/`) and all code comments are in English, even when the person you work with writes to you in another language.
+All documentation (`PROCESS.md`, `README.md`, anything in `docs/`), code comments and commit messages are in English, even when the person you work with writes to you in another language.
 
 ## Where things go
 
